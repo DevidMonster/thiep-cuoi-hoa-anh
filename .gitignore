@@ -1,0 +1,10 @@
+*.zip
+/CD NGOC ANH*/
+/.vscode/
+/preview/
+/node_modules/
+/.cache/
+.DS_Store
+Thumbs.db
+/0e692cb8-b6fc-4f9a-b6b9-1ce4036546d9.jpg
+/f010f1ea-9957-44d2-a3de-b2b783b4156b.jpg

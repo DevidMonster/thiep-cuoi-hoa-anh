@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Quang Hoa Ngoc Anh//Wedding Invitation//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ceremony-20260920@quanghoa-ngocanh.wedding
+DTSTAMP:20260913T080000Z
+DTSTART:20260920T073000Z
+DTEND:20260920T083000Z
+SUMMARY:Lễ thành hôn Quang Hòa & Ngọc Anh
+LOCATION:46 Hàng Bồ\, Phường Hoàn Kiếm\, Hà Nội
+DESCRIPTION:Trân trọng kính mời bạn chung vui tại gia đình nhà
+  trai.
+END:VEVENT
+BEGIN:VEVENT
+UID:reception-20260920@quanghoa-ngocanh.wedding
+DTSTAMP:20260913T080000Z
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+SUMMARY:Tiệc cưới Quang Hòa & Ngọc Anh
+LOCATION:Tầng 2 Trống Đồng Palace\, 65 Quán Sứ\, Cửa Nam\, Hà 
+ Nội
+DESCRIPTION:Trân trọng kính mời bạn dự bữa cơm thân mật cù
+ ng hai gia đình.
+END:VEVENT
+END:VCALENDAR
